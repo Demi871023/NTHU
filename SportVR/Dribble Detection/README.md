@@ -4,3 +4,7 @@
 ### Object Detection
 ### Pose Estimation
 ### Get a Cyclic Dribbling Video
+
+## Model Proposal
+### Dribbling Type Classification
+### Dribbling Missing Detection
